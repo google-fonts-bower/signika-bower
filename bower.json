@@ -1,0 +1,17 @@
+{
+    "name": "signika-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Anna Giedry\u015b"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/signika-bower.git"
+    },
+    "description": "Signika font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
